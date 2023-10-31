@@ -1,5 +1,13 @@
 
 
-* Experiments with PostgreSQL pub/sub
+# Experiments with PostgreSQL pub/sub
+
+
+# References
+
+* https://webapp.io/blog/postgres-is-the-answer/
+
+
+
 
 
